@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\bin\Debug\net6.0\Collections-Homework-contact.exe
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\bin\Debug\net6.0\Collections-Homework-contact.deps.json
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\bin\Debug\net6.0\Collections-Homework-contact.runtimeconfig.json
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\bin\Debug\net6.0\Collections-Homework-contact.dll
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\bin\Debug\net6.0\Collections-Homework-contact.pdb
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\Collections-Homework-contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\Collections-Homework-contact.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\Collections-Homework-contact.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\Collections-Homework-contact.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\Collections-Homework-contact.dll
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\refint\Collections-Homework-contact.dll
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\Collections-Homework-contact.pdb
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\Collections-Homework-contact.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Collections-Homework-contact\Collections-Homework-contact\obj\Debug\net6.0\ref\Collections-Homework-contact.dll
